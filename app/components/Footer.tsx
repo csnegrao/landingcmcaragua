@@ -50,6 +50,7 @@ export function Footer() {
             </a>
           </div>
         </div>
+        <p className="sl20-credit text-center text-xs text-gray-500 mt-6">Desenvolvido por <a href="https://sl20.com.br" target="_blank" rel="noopener noreferrer" style={{color:"inherit",textDecoration:"underline"}}>SL20 Tecnologia</a> · <a data-sl20-credit href="https://sl20.com.br/#contato" target="_blank" rel="noopener noreferrer" style={{color:"inherit",textDecoration:"underline"}}>Contato</a></p>
       </div>
     </footer>
   );
